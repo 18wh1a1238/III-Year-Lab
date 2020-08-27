@@ -9,4 +9,4 @@
 
  #output:
  
- ![output](Exp1.PNG)
+ ![output](output1.PNG)
